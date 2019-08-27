@@ -5,10 +5,10 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
 Here's a test project where I played with getting words to bounce around a screen. It has the follwing features:
 
 - Iterates through an array of genres and generates an object for each 
-- All objects have a randomized color, size, and velocity and which its moving
+- All objects have a randomized color, size, and velocity at which its moving
 - When you hover over a word, the word stops moving and a filled circle of light opactity appears
-- Once you move your mouse off the word, it is eventually hit by one of the other bouncing words and gains velocity
-- If you click on a word, it logs the word you clicked on
+- Once you move your mouse off the word, the filled circle fades away and the word is eventually hit by one of the other bouncing words. Once this happens it gains velocity and moves around the screen again
+- If you click on a word, it logs the word that you've clicked on
 
 ## Getting Started
 
