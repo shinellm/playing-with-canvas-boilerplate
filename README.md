@@ -1,6 +1,8 @@
+# Bouncing Words
+
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
-![Bouncing Words](src/images/bouncing-words.png)
+![](src/images/bouncing-words.gif)
 
 Here's a test project where I played with getting words to bounce around a webpage. It has the follwing features:
 
