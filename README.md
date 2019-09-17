@@ -16,7 +16,7 @@ Here's a test project where I played with getting words to bounce around a webpa
 
 1.  Clone the repo:
 
-        git clone https://github.com/shinellmanwaring/playing-with-canvas-boilerplate.git
+        git clone https://github.com/shinellm/playing-with-canvas-boilerplate.git
 
 2.  Install dependencies:
 
